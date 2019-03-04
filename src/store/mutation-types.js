@@ -1,0 +1,1 @@
+export const RECEIVE_INITINFO = "RECEIVE_INITINFO";

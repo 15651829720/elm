@@ -1,0 +1,33 @@
+html,
+body,
+#app,
+.app-inner {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+}
+
+#app {  
+    background-size: cover;
+    position: relative;
+    margin: 0 auto;
+    max-width: 750px;
+}
+
+div {
+    margin: 0;
+    padding: 0;
+}
+
+.el-menu-demo {
+    width: 100%;
+}
+
+.el-menu-item {
+    text-align: center;
+    width: 33%;
+    height: 40px !important;
+    line-height: 40px !important;
+    border: 0px !important;
+}
